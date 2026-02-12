@@ -1,0 +1,9 @@
+name: create apps pydriod3
+description: Workspace for my Pydroid3 app project
+files:
+  - MainActivity.kt
+  - Models.kt
+  - layout/activity_main.xml
+  - readme.md
+python_version: "3.10"
+android_target: "API 33"
