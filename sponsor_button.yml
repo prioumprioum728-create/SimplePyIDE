@@ -1,0 +1,9 @@
+appName: SimplePyIDE Copycat
+feature: sponsor_button
+description: Adds a sponsor button in the app UI
+button:
+  text: Sponsor
+  color: "#FF5722"
+  position: bottom_right
+  action: open_url
+  url: "https://www.your-sponsor-link.com"
