@@ -1,0 +1,15 @@
+{
+  "appName": "Pydroid3 App",
+  "version": "1.0.0",
+  "author": "Your Name",
+  "description": "A demo Pydroid3 app copycat",
+  "mainScript": "main.py",
+  "models": [
+    "models.kt"
+  ],
+  "pythonVersion": "3.10",
+  "dependencies": [
+    "requests",
+    "numpy"
+  ]
+}
