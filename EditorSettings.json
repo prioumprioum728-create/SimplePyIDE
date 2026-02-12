@@ -1,0 +1,23 @@
+{
+  "editor": {
+    "theme": "dark",
+    "font_size": 16,
+    "line_numbers": true,
+    "auto_indent": true,
+    "wrap_text": false
+  },
+  "runner": {
+    "run_button": "◀️",
+    "show_output_terminal": true,
+    "clear_terminal_before_run": true
+  },
+  "pips": {
+    "auto_update": false,
+    "trusted_sources": ["pypi.org", "pypi.python.org"]
+  },
+  "workspace": {
+    "last_opened_file": "",
+    "recent_files": [],
+    "autosave_interval_sec": 60
+  }
+}
