@@ -1,0 +1,21 @@
+{
+  "appName": "SimplePyIDE Copycat",
+  "feature": "understand_code",
+  "description": "Settings for analyzing and understanding Python code",
+  "editor": {
+    "theme": "dark",
+    "font_size": 16,
+    "auto_indent": true,
+    "wrap_text": false
+  },
+  "runner": {
+    "run_button": "▶️",
+    "show_output_terminal": true,
+    "strict_run": true   // If user types random stuff, show error
+  },
+  "workspace": {
+    "last_opened_file": "",
+    "recent_files": [],
+    "autosave_interval_sec": 60
+  }
+}
