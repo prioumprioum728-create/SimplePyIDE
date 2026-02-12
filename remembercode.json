@@ -1,0 +1,22 @@
+{
+  "appName": "SimplePyIDE Copycat",
+  "feature": "remember_code",
+  "description": "Stores the last saved Python code so the user can continue later",
+  "editor": {
+    "theme": "dark",
+    "font_size": 16,
+    "line_numbers": true,
+    "auto_indent": true,
+    "wrap_text": false
+  },
+  "workspace": {
+    "last_saved_file": "",
+    "last_saved_content": "",
+    "recent_files": [],
+    "autosave_interval_sec": 60
+  },
+  "runner": {
+    "run_button": "▶️",
+    "show_output_terminal": true
+  }
+}
